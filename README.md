@@ -24,6 +24,4 @@ Built 5 dashboards analyzing sales ($300M+), finance, and inventory trends using
 ## 🤝 Collaboration
 I'm looking to collaborate on **data analytics projects** and open-source contributions.
 
-## 🏆 Achievements
-- [Certification Name](Link)
-- [Award Name](Link)
+
