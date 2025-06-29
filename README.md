@@ -17,7 +17,7 @@ Analyzed 48K+ sales records using MySQL to identify top products, peak hours, an
 Built 5 dashboards analyzing sales ($300M+), finance, and inventory trends using Power BI, DAX, and SQL.
 
 ## 📫 Contact Me
-🔗 [LinkedIn](https://https://www.linkedin.com/in/souravpaulofficial?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+🔗 [LinkedIn](https://https://www.linkedin.com/in/souravpaulofficial)  
 💻 [GitHub](https://github.com/PaulSourav10)  
 📧 souravpaulofficial01@gmail.com  
 
